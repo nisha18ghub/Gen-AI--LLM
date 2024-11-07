@@ -1,1 +1,2 @@
 # Gen-AI--LLM
+In this product, we have integrated two LLM models known as Mixtral and Gemini on a diabetes dataset containing approximately 70,000 rows of de-identified patient information. The dataset is first parsed into Neo4j to leverage the power of graph-based Retrieval-Augmented Generation (graphRAG). Here, patient information is retrieved from Neo4j, and content generation is performed using the LLMs. 
